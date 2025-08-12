@@ -50,23 +50,21 @@ jupyter notebook "ARS-NAS for CIFAR-10.ipynb"
 # 📚 Citation:-
 If you use ARS-NAS, please cite:
 ```bibtex
-@inproceedings{almatare2025arsnas,
-  author={AL-Matari, Mohammed Radman and ...},
-  booktitle={2025 IEEE International Conference on Information and Communication Systems (ICICS)},
-  title={Adaptive Random Neural Architecture Search},
+@INPROCEEDINGS{11073105,
+  author={AL-Matari, Mohammed R. and Mustafa, Ahmad M.},
+  booktitle={2025 16th International Conference on Information and Communication Systems (ICICS)}, 
+  title={Adaptive Random Neural Architecture Search}, 
   year={2025},
-  doi={10.1109/ICICS11073105}
-}
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Adaptation models;Accuracy;Neurons;Computer architecture;Search problems;Natural language processing;Neural architecture search;Reliability;Optimization;Biological neural networks;Deep Learning;Optimization;Automated Search;Search Space;Network Structure;Performance},
+  doi={10.1109/ICICS65354.2025.11073105}}
 ```
 
 
 ---
 
-## **8. Add “Contact” section**  
-Makes it easy for others to reach you:  
-```markdown
-# 📬 Contact:-
+## **# 📬 Contact:-**  
 **Name:** Mohammed Radman AL-Matari  
 **LinkedIn:** [linkedin.com/in/mrm1](https://www.linkedin.com/in/mrm1/)  
-**Email:** your@email.com
-
