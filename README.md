@@ -13,10 +13,9 @@
 - 📊 **Using feedback** from intermediate evaluations  
 - 🚫 **Reducing redundant** model trials  
 
-We compare **ARS-NAS** against:  
+We compare ⚡ **ARS-NAS** against:  
 - 📋 **Grid Search**  
 - 🎲 **Random Search**  
-- ⚡ **Adaptive Random Search (ARS)**  
 
 ---
 
