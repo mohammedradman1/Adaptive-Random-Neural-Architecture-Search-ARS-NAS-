@@ -66,5 +66,4 @@ If you use ARS-NAS, please cite:
 ---
 
 ## **# 📬 Contact:-**  
-**Name:** Mohammed Radman AL-Matari  
 **LinkedIn:** [linkedin.com/in/mrm1](https://www.linkedin.com/in/mrm1/)  
