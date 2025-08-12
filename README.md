@@ -65,5 +65,5 @@ If you use ARS-NAS, please cite:
 
 ---
 
-## **# 📬 Contact:-**  
+## **📬 Contact:-**  
 **LinkedIn:** [linkedin.com/in/mrm1](https://www.linkedin.com/in/mrm1/)  
