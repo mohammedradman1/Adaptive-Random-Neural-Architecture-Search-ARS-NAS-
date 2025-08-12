@@ -1,7 +1,7 @@
 # Adaptive Random Neural Architecture Search (ARS-NAS):-
 **Adaptive Random Neural Architecture Search (ARS-NAS)** is a novel approach for efficiently exploring deep neural network architectures. It **adapts sampling probabilities** based on previous trial performance, striking a balance between **exploration** and **exploitation** to achieve competitive accuracy with reduced search cost.
 
-📄 **Publication:** [IEEE ICICS 2025 – ARS-NAS](https://ieeexplore.ieee.org/abstract/document/11073105)  
+📄 **Publication:** [Adaptive Random Neural Architecture Search IEEE ICICS 2025 – ARS-NAS](https://ieeexplore.ieee.org/abstract/document/11073105)  
 🗂 **Code:** Includes experiments for **CIFAR-10**, **MNIST**, and **Fashion-MNIST**.
 
 ---
